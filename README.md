@@ -138,7 +138,7 @@ import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 ### Photo
 ```js
 {
-  title: String,
+  title: String,ODE
   description: String,
   imageUrl: String,        // Cloudinary URL
   location: {
